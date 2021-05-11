@@ -9,7 +9,7 @@ Exercido a prática dos principais conceitos de testes para aumentar a qualidade
 [Clique aqui para se inscrever na Digital Innovation One](https://digitalinnovation.one/sign-up?ref=H395IYS4Z6)  
 
 
-Desenvolvedores do projeto:
+## Desenvolvedores do projeto:
 
 ## Eliézer Zarpelão
 [GitHub Timeline](https://elizarp.github.io/timeline/)  
