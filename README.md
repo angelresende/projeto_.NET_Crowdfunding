@@ -1,7 +1,7 @@
 # dotnet-vaquinha-tests
 Projeto Base para Testes - .Net Core  
 
-"Teste do projeto de crowdfunding (vaquinha online) desenvolvida em .Net Core com a arquitetura MVC. 
+Teste do projeto de crowdfunding (vaquinha online) desenvolvida em .Net Core com a arquitetura MVC. 
 Exercido a prática dos principais conceitos de testes para aumentar a qualidade de entrega de projetos com testes de unidade, integrados e TDD.
 
 ## Digital Innovation One
